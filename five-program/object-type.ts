@@ -20,5 +20,3 @@ let class2 = {
 }
 
 userClass.push(class1,class2)
-
-console.log(userClass);
