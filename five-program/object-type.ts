@@ -13,10 +13,6 @@ let class1 = {
     className : "english",
     classActive : true,
 }
-let class2 = {
-    classId : 120,
-    className : "physich",
-    classActive : false,
-}
 
-userClass.push(class1,class2)
+userClass.push(class1)
+
